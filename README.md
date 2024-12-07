@@ -7,8 +7,6 @@ This project leverages Natural Language Processing (NLP) techniques to classify 
 - **Sentiment Classification**: Analyzes tweets and labels them as positive, negative, or neutral.
 - **Data Preprocessing**: Includes tokenization, stopword removal, stemming/lemmatization, and handling of emojis and hashtags for clean and accurate data.
 - **High Model Accuracy**: Achieves optimal performance through fine-tuning, hyperparameter optimization, and cross-validation.
-- **Real-Time Monitoring**: Supports real-time sentiment analysis and visualization for monitoring social media trends.
-- **Interactive Visualizations**: Offers dashboards and visualizations to present analysis results effectively.
 
 ## Technologies Used
 
