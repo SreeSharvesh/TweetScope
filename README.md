@@ -1,4 +1,4 @@
-# Sentiment Analysis on Tweets Using NLP
+# TweetScope
 
 This project leverages Natural Language Processing (NLP) techniques to classify tweets from X (formerly Twitter) based on sentiment. The model categorizes tweets as positive, negative, or neutral, providing valuable insights into social media trends and aiding decision-making.
 
